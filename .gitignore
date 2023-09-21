@@ -1,0 +1,3 @@
+data/details/*.json
+data/diseases/*.json
+node_modules
