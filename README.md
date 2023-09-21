@@ -1,4 +1,4 @@
-# datascrapper
+# scrapper
 
 ## Requirements
 node.js v18.x
